@@ -1,0 +1,38 @@
+# Configuration for hostname
+HOSTNAME="Control"
+
+
+# Configuration for public network
+# PUBLICIP="172.18.215.6"
+# PUBLICIP_MASK="255.255.255.0"
+# PUBLICIP_GATEWAY="172.18.215.254"
+# PUBLIC_NETWORK="172.18.215.0/24"
+# DNS_SERVER="8.8.4.4"
+
+
+# Configuration for management network
+# MANAGEIP="10.10.1.2"
+# MANAGEIP_MASK="255.255.255.0"
+
+
+# Configuration for data network
+# VM_GATEWAY="172.18.230.254"
+# FIXED_RANGE="172.18.230.0/24"
+# VM_NETWORK_SIZE=256
+
+# For control node and single node
+# VM_NETWORK="172.18.230.0/24"
+# VM_NETMASK="255.255.255.0"
+# VM_BROADCAST="172.18.230.255"
+
+
+# Only for compute node
+# CONTROLLER_PUBLICIP="172.18.215.6"
+# CONTROLLER_MANAGEIP="10.10.1.2"
+
+
+# Configuration for admin password
+# ADMIN_PASSWORD="sysuadmin"
+
+
+
